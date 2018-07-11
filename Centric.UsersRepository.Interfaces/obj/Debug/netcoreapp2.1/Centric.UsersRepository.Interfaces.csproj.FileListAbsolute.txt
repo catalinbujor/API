@@ -1,0 +1,12 @@
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UsersRepository.Interfaces\bin\Debug\netcoreapp2.1\Centric.UsersRepository.Interfaces.deps.json
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UsersRepository.Interfaces\bin\Debug\netcoreapp2.1\Centric.UsersRepository.Interfaces.dll
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UsersRepository.Interfaces\bin\Debug\netcoreapp2.1\Centric.UsersRepository.Interfaces.pdb
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UsersRepository.Interfaces\bin\Debug\netcoreapp2.1\Centric.UserRepository.Models.dll
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UsersRepository.Interfaces\bin\Debug\netcoreapp2.1\Centric.UserRepository.Models.pdb
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UsersRepository.Interfaces\obj\Debug\netcoreapp2.1\Centric.UsersRepository.Interfaces.csprojAssemblyReference.cache
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UsersRepository.Interfaces\obj\Debug\netcoreapp2.1\Centric.UsersRepository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UsersRepository.Interfaces\obj\Debug\netcoreapp2.1\Centric.UsersRepository.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UsersRepository.Interfaces\obj\Debug\netcoreapp2.1\Centric.UsersRepository.Interfaces.AssemblyInfo.cs
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UsersRepository.Interfaces\obj\Debug\netcoreapp2.1\Centric.UsersRepository.Interfaces.csproj.CopyComplete
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UsersRepository.Interfaces\obj\Debug\netcoreapp2.1\Centric.UsersRepository.Interfaces.dll
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UsersRepository.Interfaces\obj\Debug\netcoreapp2.1\Centric.UsersRepository.Interfaces.pdb

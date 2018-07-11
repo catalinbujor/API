@@ -1,0 +1,17 @@
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\osx.10.11-x64\libhostpolicy.dylib
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\osx.10.11-x64\libhostfxr.dylib
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\osx.10.11-x64\TodoApi
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\osx.10.11-x64\TodoApi.deps.json
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\osx.10.11-x64\TodoApi.runtimeconfig.json
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\osx.10.11-x64\TodoApi.runtimeconfig.dev.json
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\osx.10.11-x64\TodoApi.dll
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\TodoApi\bin\Debug\netcoreapp2.1\osx.10.11-x64\TodoApi.pdb
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\osx.10.11-x64\TodoApi.csprojAssemblyReference.cache
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\osx.10.11-x64\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\osx.10.11-x64\TodoApi.RazorAssemblyInfo.cache
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\osx.10.11-x64\TodoApi.RazorAssemblyInfo.cs
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\osx.10.11-x64\TodoApi.AssemblyInfoInputs.cache
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\osx.10.11-x64\TodoApi.AssemblyInfo.cs
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\osx.10.11-x64\TodoApi.RazorTargetAssemblyInfo.cache
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\osx.10.11-x64\TodoApi.dll
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\TodoApi\obj\Debug\netcoreapp2.1\osx.10.11-x64\TodoApi.pdb

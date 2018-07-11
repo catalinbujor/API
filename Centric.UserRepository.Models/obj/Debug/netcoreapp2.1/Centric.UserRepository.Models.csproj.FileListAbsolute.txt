@@ -1,0 +1,9 @@
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Models\bin\Debug\netcoreapp2.1\Centric.UserRepository.Models.deps.json
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Models\bin\Debug\netcoreapp2.1\Centric.UserRepository.Models.dll
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Models\bin\Debug\netcoreapp2.1\Centric.UserRepository.Models.pdb
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Models\obj\Debug\netcoreapp2.1\Centric.UserRepository.Models.csprojAssemblyReference.cache
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Models\obj\Debug\netcoreapp2.1\Centric.UserRepository.Models.csproj.CoreCompileInputs.cache
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Models\obj\Debug\netcoreapp2.1\Centric.UserRepository.Models.AssemblyInfoInputs.cache
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Models\obj\Debug\netcoreapp2.1\Centric.UserRepository.Models.AssemblyInfo.cs
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Models\obj\Debug\netcoreapp2.1\Centric.UserRepository.Models.dll
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Models\obj\Debug\netcoreapp2.1\Centric.UserRepository.Models.pdb

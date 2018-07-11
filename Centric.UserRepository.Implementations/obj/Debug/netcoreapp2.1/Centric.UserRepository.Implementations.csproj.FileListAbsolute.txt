@@ -1,0 +1,14 @@
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Implementations\bin\Debug\netcoreapp2.1\Centric.UserRepository.Models.dll
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Implementations\bin\Debug\netcoreapp2.1\Centric.UsersRepository.Interfaces.dll
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Implementations\obj\Debug\netcoreapp2.1\Centric.UserRepository.Implementations.csproj.CoreCompileInputs.cache
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Implementations\obj\Debug\netcoreapp2.1\Centric.UserRepository.Implementations.AssemblyInfoInputs.cache
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Implementations\obj\Debug\netcoreapp2.1\Centric.UserRepository.Implementations.AssemblyInfo.cs
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Implementations\bin\Debug\netcoreapp2.1\Centric.UserRepository.Implementations.deps.json
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Implementations\bin\Debug\netcoreapp2.1\Centric.UserRepository.Implementations.dll
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Implementations\bin\Debug\netcoreapp2.1\Centric.UserRepository.Implementations.pdb
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Implementations\bin\Debug\netcoreapp2.1\Centric.UsersRepository.Interfaces.pdb
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Implementations\bin\Debug\netcoreapp2.1\Centric.UserRepository.Models.pdb
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Implementations\obj\Debug\netcoreapp2.1\Centric.UserRepository.Implementations.csprojAssemblyReference.cache
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Implementations\obj\Debug\netcoreapp2.1\Centric.UserRepository.Implementations.csproj.CopyComplete
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Implementations\obj\Debug\netcoreapp2.1\Centric.UserRepository.Implementations.dll
+C:\Users\Cbujor\Desktop\VisualSaves\TodoApi\Centric.UserRepository.Implementations\obj\Debug\netcoreapp2.1\Centric.UserRepository.Implementations.pdb
